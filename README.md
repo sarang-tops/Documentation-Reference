@@ -1,5 +1,6 @@
 # Documentation-Reference
 Templates &amp; tips on writing high-quality documentation.
+Best practices for creating software documentation and technical writing.[Guide](https://www.writethedocs.org/guide/)
 
 <p align="center">
   <a href="" rel="noopener">
